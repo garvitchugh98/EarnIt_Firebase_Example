@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#285FBA</color>
+    <color name="colorPrimaryDark">#285FBA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentTransparent">#B3FF4081</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="background_skyblue">#0096b1</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="startblue">#64B5F6</color>
+    <color name="endblue">#42A5F5</color>
+    <color name="grayLight">#D3D3D3</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="darkColor">#222222</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="list_divider_2">#d9d9d9</color>
+    <color name="list_background_pressed">#d8d8d8</color>
+    <color name="list_background">#fff</color>
+    <color name="list_item_title">#d3d3d3</color>
+    <color name="list_divider">#979797</color>
+    <color name="list_item_selected_state">#F4F6F6</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+</resources>

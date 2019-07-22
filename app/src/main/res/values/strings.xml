@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EarnIt!</string>
+    <string name="welcome_to_school_app">Welcome To School App!</string>
+    <string name="user_id">USER ID</string><string name="create_account">CREATE ACCOUNT</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">Email</string>
+    <string name="display_name">User Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_have_an_account">Don\'t have an Account</string>
+    <string name="log_out">Log out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="add_role">Add Role</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Master Notifier</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="display_name_profile">Display Name</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="decline_friend_request">DECLINE FRIEND REQUEST</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Notifier</string>
+    <string name="nav_header_subtitle">brss</string>
+    <string name="nav_header_desc">Notify</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="nav_item_home">Settings</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_home</item>
+
+    </string-array>
+
+    <string-array name="elements_home">
+        <item>Urgent</item>
+        <item>Critical</item>
+        <item>Healthy</item>
+        <item>Alert</item>
+    </string-array>
+
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="appName">Notifier</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="please_provide_the_details">Please provide the details</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="_0_items_selected">0 items selected</string>
+    <string name="ADUNIT">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
